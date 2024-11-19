@@ -143,7 +143,7 @@ To collect more information on an issue, please change `LOG_LEVEL` to `debug`.
 
 ## Contact
 
-[Telegram](https://t.me/TarpanTg)
+[Telegram](https://t.me/evilgon_dev)
 
 ## Disclaimer
 
